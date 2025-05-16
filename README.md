@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! I am Md Roman Talukdar. 👋🤓</h2>
+<h2 align="center">Hi ! I am Md Roman Talukdar. 👋</h2>
 
 🎓 I have completed my B.Tech in Computer Science and Engineering from KIIT, India. 
 
@@ -6,6 +6,13 @@
 
 🤖 I'm also deeply curious about Generative AI (GANs) and how these models can empower intelligent automation and creativity across various domains.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romantalukdar346&label=Profile%20views&color=0e75b6&style=flat" alt="romantalukdar346" /> </p>
+
+<p align="left"> <a href="https://github.com/romantalukdar346"><img src="https://github-profile-trophy.vercel.app/?username=romantalukdar346" alt="romantalukdar346" /></a> </p>
+
+<p align="left"> <a href="https://x.com/RomanTaluk47550" target="blank"><img src="https://img.shields.io/twitter/follow/RomanTaluk47550?logo=twitter&style=for-the-badge" alt="RomanTaluk47550" /></a> </p>
+
+- 📫 How to reach me **romantalukdar346@gmail.com**
 
 <hr>
 
