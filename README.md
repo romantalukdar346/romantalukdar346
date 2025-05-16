@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Md Roman Talukdar. 👋🤓</h2>
+<h2 align="center">Hello there! I am Md Roman Talukdar. 👋🤓</h2>
 
 🎓 I have completed my B.Tech in Computer Science and Engineering from KIIT, India. 
 
@@ -118,5 +118,9 @@
 
 
 <p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romantalukdar346&show_icons=true&theme=radical">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=romantalukdar346&show_icons=true&theme=radical" style="margin-right: 10%;" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romantalukdar346&layout=compact&theme=radical&hide_border=false" />
 </p>
+
+
+
