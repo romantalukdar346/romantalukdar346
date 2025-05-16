@@ -1,8 +1,11 @@
 <h2 align="center">Hello there! My name is Md Roman Talukdar. 👋🤓</h2>
 
-<p align="center">
-I have completed my B Tech in Computer Science and Engineering from KIIT in India. I'm passionate about areas of Artificial Intelligence like deep learning and reinforcement learning 👨‍💻. I'm also curious about GanAI 🤖 and how GAN-AI can empower intelligent automation.
-</p>
+🎓 I have completed my B.Tech in Computer Science and Engineering from KIIT, India. 
+
+💡 I'm passionate about the exciting fields of Artificial Intelligence, especially Deep Learning and Reinforcement Learning 👨‍💻.
+
+🤖 I'm also deeply curious about Generative AI (GANs) and how these models can empower intelligent automation and creativity across various domains.
+
 
 <hr>
 
