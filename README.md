@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <hr>
-<h3 align="center">🔧 Key Knowledge Areas and  Domains of Interest 📌</h3>
+<h3 align="center">🔧 Key Knowledge Areas </h3>
 
 
 <p align="center">
@@ -78,12 +78,7 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-E34A6F.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-F9A825.svg?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-1976D2.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GANs-7B1FA2.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4A90E2.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-FF4081.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN%20Architectures-E91E63.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-9C27B0.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Debugging-9E9E9E.svg?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-FF9800.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-03A9F4.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -93,7 +88,18 @@
 
 
 
+<hr>
+<h3 align="center">📌 Domains of Interest </h3>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GANs-7B1FA2.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4A90E2.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-FF4081.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-9C27B0.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+
+</p>
 
 
 
