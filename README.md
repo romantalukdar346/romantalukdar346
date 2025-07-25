@@ -16,8 +16,8 @@
 
 <hr>
 
-<h4 align="center">Social Media </h4>
-<p align="center">
+<h4 align="left">Social Media </h4>
+<p align="left">
   <a href="https://x.com/RomanTaluk47550"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/roman-talukdar-474288224/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/roman.talukdar.526"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
@@ -25,12 +25,12 @@
 
 
 <hr>
-<h3 align="center">🛠️ Technical Skills</h3> 
+<h3 align="left">🛠️ Technical Skills</h3> 
 
 <hr>
-<h4 align="center">Programming Languages: </h2> 
+<h4 align="left">Programming Languages: </h2> 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,10 +41,10 @@
 </p>
 
 <hr>
-<h4 align="center">Libraries/Frameworks: </h4> 
+<h4 align="left">Libraries/Frameworks: </h4> 
 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-black.svg?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -58,9 +58,9 @@
 </p>
 
 <hr>
-<h4 align="center">Tools: </h4> 
+<h4 align="left">Tools: </h4> 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -69,10 +69,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <hr>
-<h3 align="center">🔧 Key Knowledge Areas </h3>
+<h3 align="left">🔧 Key Knowledge Areas </h3>
 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-21A366.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-E34A6F.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-F9A825.svg?style=for-the-badge&logo=spacy&logoColor=white" />
@@ -88,10 +88,10 @@
 
 
 <hr>
-<h3 align="center">📌 Domains of Interest </h3>
+<h3 align="left">📌 Domains of Interest </h3>
 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GANs-7B1FA2.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-4A90E2.svg?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -112,7 +112,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/romantalukdar346">
     <img src="https://badges.pufler.dev/visits/romantalukdar346/romantalukdar346?style=flat-square&color=black&logo=github">
   </a>
@@ -121,7 +121,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/romantalukdar346"><img src="https://img.shields.io/github/followers/romantalukdar346?style=social"></a>
 </p>
 
